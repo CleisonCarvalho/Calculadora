@@ -1,5 +1,5 @@
 ## Fazer uma calculadora de 4 operações (soma, multiplicação, divisão inteira, potência). Peça a operação desejada e depois os
-# dois números ao usuário.
+# dois números ao usuário!
 
 print('1 - Soma\n2 - Multiplicação\n3 - Divisão\n4 - Potência\n')
 op = int(input('Escolha uma operação: '))
